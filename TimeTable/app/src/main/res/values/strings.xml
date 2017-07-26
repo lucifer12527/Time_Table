@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string-array name="day">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="monday">
+        <item>Probability &amp; Random Process</item>
+        <item>Principles of Communication</item>
+        <item>Measurement and Instrumentation</item>
+        <item>Minor</item>
+    </string-array>
+    <string-array name="tuesday">
+        <item>Analog Integrated Circuits</item>
+        <item>Probability &amp; Random Process</item>
+        <item>Principles of Communication</item>
+    </string-array>
+    <string-array name="wednesday">
+        <item>H.S.S</item>
+        <item>Analog Integrated Circuits</item>
+        <item>Probabilty &amp; Random Process</item>
+        <item>Minor</item>
+    </string-array>
+    <string-array name="thursday">
+        <item>Principles of Communication(Tut)</item>
+        <item>Measurement and Instrumentation</item>
+        <item>H.S.S</item>
+        <item>Analog Integrated Circuits</item>
+    </string-array>
+    <string-array name="friday">
+        <item>Probability &amp; Random Process(Tut)</item>
+        <item>Principles of Communication</item>
+        <item>Measurement and Instrumentation</item>
+        <item>H.S.S</item>
+        <item>Minor</item>
+    </string-array>
+
+    <string-array name="faculty">
+        <item>Probability and Random Process</item>
+        <item>Prof.Prabin Kumar Bora </item>
+        <item>Ph.no:+91-361-2582502 </item>
+        <item>Email:prabin@iitg.ernet.in, Room.no:205</item>
+        <item>.............................. </item>
+        <item>Principles of Communication</item>
+        <item>Prof. Samarjith Das</item>
+        <item>Ph.no: +91-361-2582515</item>
+        <item>Email: dass@iitg.ernet.in, Room.no:107</item>
+        <item>.............................. </item>
+        <item>Measurement and Instrumentation</item>
+        <item>Prof. Harshal Nemade</item>
+        <item>Ph.no: +91-361-2582509</item>
+        <item>Email:harshal@iitg.ernet.in, Room.no:207</item>
+        <item>............................... </item>
+        <item>Analog Integrated Circuits</item>
+        <item>Prof.Amitab Chatterjee  </item>
+        <item>Ph.no: +91-361-2583455</item>
+        <item>Email:amitabh_c@iitg.ernet.in, Room.no:114</item>
+    </string-array>
+</resources>
